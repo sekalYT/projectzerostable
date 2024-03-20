@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StringExampleTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 2238ef7fcd175354d8a347adc5478679, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 21357170688
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2461498380288
+    m_Localized: Project Zero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3433188593664
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4548881846272
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4956907933696
+    m_Localized: License
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5161518665728
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6260212404224
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6428605321216
+    m_Localized: Graphic's Quality
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6702950551552
+    m_Localized: Resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7199359012864
+    m_Localized: Sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7350773387264
+    m_Localized: Fullscreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7896309731328
+    m_Localized: Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8178896769024
+    m_Localized: Music - Bensound.com
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8334014713856
+    m_Localized: Sprites and Animations - kenney.nl/assets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10374984011776
+    m_Localized: Languages
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3967390463070208
+    m_Localized: You are death! :(
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3970849258115072
+    m_Localized: Don`t give up!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3971268986310656
+    m_Localized: Did you really think it would be easy?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3971793114927104
+    m_Localized: Try as much as you want, you won't succeed.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3972056848568320
+    m_Localized: And again...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3974530103808000
+    m_Localized: Restart the loop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65631119424102400
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65631267181043712
+    m_Localized: Paused
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65631685898412032
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65633760677994496
+    m_Localized: Exit in menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123985281557180416
+    m_Localized: I do not give up!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
